@@ -22,11 +22,14 @@ Full remote = 🏠
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
 	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
-	- Développeur·euse fullstack -
+	- Développeur·euse fullstack
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Developpeur(se) senior·e back-end - IA  🏠
 - [VASCO](VASCO.md)
-	- **VP Eng / Engineering Manager FinTech NEW!**
+	- VP Eng / Engineering Manager FinTech
+- [SEZANE](SEZANE.md)
+	- Développeur·euse frontend senior JS / ReactJS
+	- Développeur·euse backend senior PHP / Symfony
 
 ## Lille :
 
