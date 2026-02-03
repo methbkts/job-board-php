@@ -62,9 +62,6 @@ Vous évoluerez au sein de l’équipe IT de Sézane, et vous serez rattaché au
 * 5 à 6 ans d’expérience professionnelle
 * Langues : Français courant, Anglais technique
 
-## Salaire 
-
-Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
 
 
 # Développeur(se) frontend sénior JS / ReactJS 
@@ -93,6 +90,11 @@ Pour rappel :  Pour le salaire : il est difficile de donner des fourchettes. **N
 * Bonne compréhension des problématiques back-end pour mieux collaborer avec l’équipe PHP est un plus
 
 
+## Salaire 
+
+Pour rappel : en fonction du profil. Pour le salaire : il est difficile de donner des fourchettes. **Ne vous inquiétez pas et postulez!** L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. **Humain & Compétences FIRST.**
+
+
 ## Pourquoi postuler ?
 
 **Les avantages :** 
@@ -106,10 +108,9 @@ C'est une entreprise avant tout technique. Vous participerez avec l'équipe a de
 * Mutuelle : Alan
 
 
-
 ## Comment postuler ?
 
-Tout simplement, envoyez-moi un email à jeanne.londiche@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
+Tout simplement, envoyez-moi un email à julie-charlotte@jlrecrutement.com, jeanne.londiche@jlrecrutement.com ou jodia@jlrecrutement.com avec un CV ou bien un profil LinkedIn à jour. À bientôt ! 
 
 ----
 <a href="https://github.com/jlondiche/job-board-php/blob/master/README.md">[Retour a la liste]</a>
