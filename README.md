@@ -30,6 +30,8 @@ Full remote = 🏠
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
 	- Développeur·euse backend senior PHP / Symfony
+- [WAMIZ](WAMIZ.md)
+	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 
 
 ## Lille :
 
@@ -39,11 +41,11 @@ Full remote = 🏠
 ## Lyon : 
 
 - [OPERA ENERGIE](OPERA_ENERGIE.md)
-	- **Développeur·se expert·e PHP/Symfony NEW**
+	- **Développeur·se expert·e PHP/Symfony - NEW**
 
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se sénior·e / lead - PHP/Symfony NEW**
-	- **Site Reliability Engineering - SRE/Infra NEW!**
+	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
+	- **Site Reliability Engineering - SRE/Infra - NEW!**
 
 
 
