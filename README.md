@@ -29,7 +29,7 @@ Full remote = 🏠
 	- VP Eng / Engineering Manager FinTech
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
-	- Développeur·euse backend senior PHP / Symfony
+	- Développeur·euse backend senior PHP / Symfony - POURVU 
 - [WAMIZ](WAMIZ.md)
 	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 
 
@@ -44,8 +44,9 @@ Full remote = 🏠
 	- **Développeur·se expert·e PHP/Symfony - NEW**
 
 - [VIVLIO](VIVLIO.md)
-	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
-	- **Site Reliability Engineering - SRE/Infra - NEW!**
+	- **PO/PM intérmédiaire - NEW!**
+	- Développeur·se sénior·e / lead - PHP/Symfony 
+	- Site Reliability Engineering - SRE/Infra
 
 
 

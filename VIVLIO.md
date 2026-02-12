@@ -24,6 +24,63 @@ L’écosystème Vivlio se double d’une gamme de liseuses permettant à ses ut
 PHP8, Symfony, Docker, Kubernetes, MySQL, RabbitMQ,  GitHub. 
 
 
+# PO/PM intérmédiaire 
+
+Rejoignez l’équipe Product de Vivlio, aujourd’hui composée de 3 PO et d’un Head of Product.
+La tech est organisée en 3 squads, chacune avec son/sa Product Owner.
+Vous rejoindrez la squad en charge des liseuses électroniques.
+
+## Missions
+
+* Collaborer avec le Head of Product pour prioriser et définir la
+roadmap du firmware liseuse en fonction des tendances du marché,
+des enjeux business et des impacts à long terme.
+* Prioriser et gérer le backlog du produit, en veillant à l'alignement sur
+la roadmap.
+* Partager la roadmap produit et contribuer aux réunions agiles avec
+les équipes de développement.
+* Rédiger des spécifications fonctionnelles claires et détaillées, les
+épics, user stories.
+* Suivre l’exécution des sprints, gérer les dépendances et planifier les
+releases en collaboration avec les équipes techniques et business.
+* S'assurer à chaque sprint que la direction prise est la bonne, les
+priorités respectées suivant la valeur métier et l’adéquation de la
+qualité des livrables.
+* Suivre les performances des produits, analyser les données
+d'utilisation et proposer des améliorations continues.
+* Participer à la phase discovery en collaboration avec l’équipe de
+product design.
+* Collaborer avec l’équipe marketing au lancement produit.
+* Collaborer avec les équipes commerciales pour identifier les
+opportunités de financement de la roadmap avec nos partenaires
+clés.
+
+
+## Profil
+
+* 3 ans d'expérience à un poste de PO/PM 
+* Bon leadership pour mener à bien le delivery des différentes
+features
+* Capacité à travailler en équipe, à gérer les priorités et à résoudre les
+problèmes de manière créative.
+* Capacité d’écoute et de communication avec des publics variés et
+différents niveaux techniques.
+* Bonne compréhension des environnements logiciels embarqués.
+* Capacité à jongler intellectuellement entre les sujets techniques ou
+fonctionnels détaillés et les sujets haut niveau.
+* Etre méthodique et organisé·e.
+* Maîtrise des méthodologies Agile.
+* Connaissance des outils de gestion de produit (Jira, Confluence,
+etc.)
+* Maîtrise de l’anglais, oral et écrit.
+
+
+## Salaire
+
+45K€/50K€ max selon profil. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
 # Développeur·se sénior·e / lead -  PHP/Symfony
 
 Intégré dans l'équipe Scrum, vous participerez de manière active et collaborative aux choix techniques. 
