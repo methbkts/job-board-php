@@ -27,7 +27,7 @@ Full remote = 🏠
 	- Developpeur(se) senior·e back-end - IA  🏠
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
-	- Développeur·euse backend senior PHP / Symfony
+	- Développeur·euse backend senior PHP / Symfony - POURVU 
 - [WAMIZ](WAMIZ.md)
 	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 
 
@@ -45,6 +45,4 @@ Full remote = 🏠
 	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
 	- **Site Reliability Engineering - SRE/Infra - NEW!**
 	- **QA junior - Mobile Apps - NEW!**
-
-
-
+	- **PO/PM intérmédiaire - NEW!**

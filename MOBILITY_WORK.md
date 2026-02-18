@@ -26,7 +26,7 @@ tests unitaires front jest
 
 ------
 
-# Developpeur(se) back-end
+# Developpeur(se) back-end expert·e
 
 Mobility Work recherche un développeur back-end avec une expérience sur les approches **CQRS & architecture Event Sourcing et/ou systèmes distribués.**
 
