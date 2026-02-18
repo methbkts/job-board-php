@@ -91,13 +91,49 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 * Aptitude au partage de connaissances
 * Des connaissances en PHP peuvent être un plus
 
-
 ## Salaire 
 
 45K€ / 55K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
+
+# QA junior - Mobile Apps
+
+Vous serez intégré(e) à une équipes Scrum et travaillerez en collaboration avec des prestataires et avec un Product Owner. Vous prendrez part à toutes les phases du développement, du découpage des Epic jusqu’à la mise en production.
+
+## Missions
+
+* Participer très tôt dans le cycle de développement
+* Proposer et mettre en place des outils et des métriques
+* S’assurer du suivi des métriques
+* Exécuter les plans de tests
+* Promouvoir les pratiques QA au sein de l’équipe technique
+* Être un acteur important du pôle développement de Vivlio
+
+## Profil
+
+* Vous aimez résoudre des problèmes complexes et créer de manière collaborative
+* Vous avez une culture QA solide et savez expliquer les concepts associés
+* Vous aimez voir votre produit évoluer et des clients satisfaits
+* Vous maîtrisez le principe des API REST
+* Vous avez une expérience dans le test d’applications mobile/smartphone
+* Vous maîtrisez l’anglais afin d’échanger avec des interlocuteurs non francophones
+
+### Soft skills
+
+* Communication synthétique (écrit et oral)
+* Compréhension du besoin client et sens de l’expérience utilisateur
+* Curiosité et veille technologique
+* Partage des connaissances
+* Capacité à sortir de sa zone de confort
+* Ouverture d’esprit
+
+## Salaire
+
+35K€ selon profil et expérience. 
+
+Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
 ## Comment postuler ?

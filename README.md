@@ -25,8 +25,6 @@ Full remote = 🏠
 	- Développeur·euse fullstack
 - [MOBILITY WORK](MOBILITY_WORK.md)
 	- Developpeur(se) senior·e back-end - IA  🏠
-- [VASCO](VASCO.md)
-	- VP Eng / Engineering Manager FinTech
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
 	- Développeur·euse backend senior PHP / Symfony
@@ -46,6 +44,7 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
 	- **Site Reliability Engineering - SRE/Infra - NEW!**
+	- **QA junior - Mobile Apps - NEW!**
 
 
 
