@@ -19,6 +19,8 @@ Full remote = 🏠
 
 ## Paris : 
 
+- [DAYUSE](DAYUSE.md)
+	- **DevOps / Développeur back-end - NEW**
 - [HOMEEXCHANGE](HOMEEXCHANGE.md)
 	- Engineering Manager experimenté·e
 - [HOMUNITY](HOMUNITY.md)
@@ -27,7 +29,7 @@ Full remote = 🏠
 	- Developpeur(se) senior·e back-end - IA  🏠
 - [SEZANE](SEZANE.md)
 	- Développeur·euse frontend senior JS / ReactJS
-	- Développeur·euse backend senior PHP / Symfony - POURVU 
+	- Développeur·euse backend senior PHP / Symfony
 - [WAMIZ](WAMIZ.md)
 	- **Developpeur(se) senior·e back-end - usage avancé de l'IA - NEW** 🏠 
 
