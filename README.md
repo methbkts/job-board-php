@@ -46,5 +46,5 @@ Full remote = 🏠
 - [VIVLIO](VIVLIO.md)
 	- **Développeur·se sénior·e / lead - PHP/Symfony - NEW**
 	- **Site Reliability Engineering - SRE/Infra - NEW!**
-	- **QA junior - Mobile Apps - NEW!**
+	- **QA junior NEW!**
 	- **PO/PM intérmédiaire - NEW!**

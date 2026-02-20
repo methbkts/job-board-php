@@ -155,18 +155,21 @@ Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne v
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
 
 
-# QA junior - Mobile Apps
+# QA junior
 
-Vous serez intégré(e) à une équipes Scrum et travaillerez en collaboration avec des prestataires et avec un Product Owner. Vous prendrez part à toutes les phases du développement, du découpage des Epic jusqu’à la mise en production.
+Vous êtes Junior, motivé(e), avec une bonne culture QA/technique, et vous souhaitez gagner en expérience dans le développement de produits numériques utilisés à grande échelle ?
+
+Vivlio, expert de la lecture numérique et partenaire des plus grandes librairies en Europe depuis 2012, recherche un QA Junior en CDI à Lyon. L’entreprise conçoit un écosystème complet (applications mobile, sites e-commerce, cloud, DRM…) utilisé par des milliers de lecteurs.
 
 ## Missions
 
-* Participer très tôt dans le cycle de développement
-* Proposer et mettre en place des outils et des métriques
-* S’assurer du suivi des métriques
-* Exécuter les plans de tests
-* Promouvoir les pratiques QA au sein de l’équipe technique
-* Être un acteur important du pôle développement de Vivlio
+* Participer au cycle de développement dès les premières étapes
+* Proposer et mettre en place des outils et des métriques QA
+* Exécuter des plans de tests
+* Suivre les métriques et contribuer à l’amélioration continue
+* Promouvoir les bonnes pratiques QA au sein de l’équipe technique
+* Vous travaillerez en Scrum, en collaboration avec le Product Owner et les prestataires techniques.
+* **Être un acteur important du pôle développement de Vivlio**
 
 ## Profil
 
@@ -176,6 +179,7 @@ Vous serez intégré(e) à une équipes Scrum et travaillerez en collaboration a
 * Vous maîtrisez le principe des API REST
 * Vous avez une expérience dans le test d’applications mobile/smartphone
 * Vous maîtrisez l’anglais afin d’échanger avec des interlocuteurs non francophones
+* Vous faites preuve de curiosité, synthèse, ouverture d’esprit et d’une bonne communication
 
 ### Soft skills
 
@@ -191,6 +195,7 @@ Vous serez intégré(e) à une équipes Scrum et travaillerez en collaboration a
 35K€ selon profil et expérience. 
 
 Pour rappel : Pour le salaire : il est difficile de donner des fourchettes. Ne vous inquiétez pas et postulez! L'entreprise est prête à payer votre XP à son juste niveau, et je vous soutiendrai sur cette partie. Humain & Compétences FIRST.
+
 
 
 ## Comment postuler ?
